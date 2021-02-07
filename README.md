@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Siddarth Menon</h1>
+<h3 align="center">CS Grad Student at University of Illinois, Chicago </h3>
 
-<!--
-**siddarthmenon/siddarthmenon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning: Mobile App Development, User Interface and User Experience Development and Data Science
+- 👯 I’m looking to collaborate on: Software Development Projects
+- 🤔 I’m looking for help with: Mobile App Development, UI/UX Designing
+- 📫 You can reach me at siddarthmenon28@gmail.com
+- 😄 Pronouns: he/him
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<p align="center">
+<a href="https://www.linkedin.com/in/siddarth-menon-71837a174/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Siddarth Menon" height="30" width="30" /></a>
+<a href="https://www.instagram.com/siddarth__menon/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Siddarth Menon" height="30" width="30" /></a>
+</p>
