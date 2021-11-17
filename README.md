@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Siddarth Menon</h1>
 <h3 align="center">CS Grad Student at University of Illinois, Chicago </h3>
 
-- 🌱 I’m currently learning: Mobile App Development, User Interface and User Experience Development and Data Science
+- 🌱 I’m currently learning: Object Oriented Languages and Environments and Computational Biology
 - 👯 I’m looking to collaborate on: Software Development Projects
-- 🤔 I’m looking for help with: Mobile App Development, UI/UX Designing
+- 🤔 I’m looking for help with: Software Deelopment
 - 📫 You can reach me at siddarthmenon28@gmail.com
 - 😄 Pronouns: he/him
 
